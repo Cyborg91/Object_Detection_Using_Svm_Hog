@@ -204,7 +204,7 @@ int main()
 		std::cout << "query: " << i << ": " << ((predictions.at<float>(i) < 0.0)? "Negative" : "Positive") << std::endl;
 
 	// People detection
-	cv::Mat myImage = imread("person.jpg", cv::IMREAD_GRAYSCALE);
+	cv::Mat myImage = imread("person5.jpeg", cv::IMREAD_GRAYSCALE);
 
 	// create the detector
 	std::vector<cv::Rect> peoples;
