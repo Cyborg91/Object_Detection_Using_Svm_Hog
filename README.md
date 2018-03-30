@@ -8,7 +8,7 @@ The code in this file is divided into 3 parts:
 - Build gradient vector for each block by simply concatenating gradient vectors of its cells.
 - Nomorlize the vector to make it invariant to light condition
 - Concatenate all block vectors to build a gradient vector to the image
-## Part 2: Visulize HOG descriptor
+## Part 2: Visualize HOG descriptor
 - Histogram of orientation is expressed as as star-shape where each line has the orientation associated to the bin it
 represents and the length of the line is proportional to that bin count.
 
