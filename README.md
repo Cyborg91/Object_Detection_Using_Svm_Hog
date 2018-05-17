@@ -13,3 +13,7 @@ The code in this file is divided into 3 parts:
 represents and the length of the line is proportional to that bin count.
 
 ## Part 3: Use OpenCv built-in detector to find a person on the scene
+
+Code reference: Opencv 3 computer vision application (Robert Laganiere)
+
+
